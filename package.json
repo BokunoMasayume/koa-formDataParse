@@ -1,0 +1,29 @@
+{
+  "name": "koa-formdataparse",
+  "version": "1.0.0",
+  "description": "koa form data parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BokunoMasayume/koa-formDataParse.git"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "form-data",
+    "parse"
+  ],
+  "author": "BokunoMasayume",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BokunoMasayume/koa-formDataParse/issues"
+  },
+  "homepage": "https://github.com/BokunoMasayume/koa-formDataParse#readme",
+  "dependencies": {
+    "co-body": "^6.0.0",
+    "type-is": "^1.6.18"
+  }
+}
