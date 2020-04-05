@@ -1,6 +1,9 @@
 # koa form data parse
 parse multipart/form-data for koa
 
+# Install
+[![](https://nodei.co/npm/koa-formdataparse.png)](https://nodei.co/npm/koa-formdataparse)
+
 # Usage
 ```js
 const Koa = require('koa');
